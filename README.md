@@ -1,5 +1,4 @@
 # Project-2-Website-A-B-Testing-for-Conversion-Optimization
-# Website_A-B_Testing_Project_2Add commentMore actions
 Website A/B Testing Analysis
 
 A/B testing project aimed at improving conversion rates by comparing two website versions using statistical techniques.
